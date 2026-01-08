@@ -1,6 +1,6 @@
 # Webスクレイピング을 위한 최고의 Python HTTP 클라이언트
 
-[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/raw/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.co.kr/)
+[![Promo](https://github.com/bright-kr/LinkedIn-Scraper/raw/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.co.kr/)
 
 다음은 2025년에 Webスクレイピング을 위해 사용할 수 있는 상위 Python HTTP 클라이언트, 해당 기능, 그리고 최적의 사용 사례에 대한 개요입니다:
 
